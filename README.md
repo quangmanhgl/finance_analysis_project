@@ -13,7 +13,7 @@ The purpose of this project is to provide clear insights into the financial heal
 - **Source:** Raw financial data from **Cophieu68.com** is integrated into Power BI for further processing. 
 - **Extract and Stage:** The data is extracted and staged within Power BI for preprocessing.
   
-![Pipeline](readme/tongquan.jpg)
+![Pipeline](readme/anh.jpg)
 
 ### 2.2. Data Preprocessing
 
